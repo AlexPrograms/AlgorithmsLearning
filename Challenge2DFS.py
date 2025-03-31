@@ -1,3 +1,4 @@
+#Second challange depth for search on graph
 def dfs_rec(adj, visited, s):
     # Mark the current vertex as visited
     visited[s] = True
